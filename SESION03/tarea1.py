@@ -7,4 +7,12 @@ Crear un menú para crear objetos y realizar las diversas operaciones referidas.
 
 '''
 class CuentaBancaria:
+def _init_(self,numeroCta=None, nombreCliente=None, fechaApertura=None, saldo=None):
+  self._numeroCta= nuemeroCta
+  self.__nombreCliente= nombreCliente
+  self.__fechaApertura= fechaApertura
+  selft.__saldo= saldo 
+
+
+  
   
