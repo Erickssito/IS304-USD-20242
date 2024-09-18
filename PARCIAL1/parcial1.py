@@ -1,5 +1,6 @@
 #Escribir un programa en phyton que permita clasificar triangulos (isoseles, escaleno, equilateroo rectangulo ) a partir de tres valores flotantes ingresados desde el teclado.
 definir y utilizar al menos una referencia de herencia que incluya encasuplamiet, el programa debe repetirse continuamente hasta que uno de los supuestos triangulos no lo sea
+Erick Romo
 
 # aquí esta Encapsulamiento 
 class Triangulo:
